@@ -4,7 +4,8 @@
   :bind
   (:map global-map
         ("M-0"       . treemacs-select-window)
-        ("C-c t t"   . treemacs)))
+        ("C-c t t"   . treemacs)
+        ("C-c t a"   . treemacs-add-and-display-current-project)))
 
 (use-package treemacs-projectile
   :after treemacs projectile
