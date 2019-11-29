@@ -1,0 +1,6 @@
+(require 'linum)
+(global-linum-mode)
+(setq linum-format "%d ")
+(setq column-number-mode t)
+(setq line-number-mode t)
+(provide 'config-linum)
