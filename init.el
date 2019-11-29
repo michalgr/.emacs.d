@@ -10,6 +10,7 @@
 (require 'config-lsp)
 (require 'config-multiple-cursors)
 (require 'config-projectile)
+(require 'config-tabs)
 (require 'config-treemacs)
 (require 'config-which-key)
 (require 'config-whitespace)
