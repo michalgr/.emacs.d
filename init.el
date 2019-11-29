@@ -7,6 +7,7 @@
 (require 'config-ivy)
 (require 'config-linum)
 (require 'config-look)
+(require 'config-lsp)
 (require 'config-multiple-cursors)
 (require 'config-projectile)
 (require 'config-treemacs)
