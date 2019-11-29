@@ -9,3 +9,9 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# Emacs packages
+elpa/*
+
+# Files managed by projectile
+projectile-bookmarks.eld
