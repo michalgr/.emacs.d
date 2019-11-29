@@ -9,5 +9,6 @@
 (require 'config-look)
 (require 'config-multiple-cursors)
 (require 'config-projectile)
+(require 'config-treemacs)
 (require 'config-which-key)
 (require 'config-whitespace)
