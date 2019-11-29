@@ -15,3 +15,8 @@ elpa/*
 
 # Files managed by projectile
 projectile-bookmarks.eld
+
+# List of recet files managed by recentf
+recentf
+
+.cache
