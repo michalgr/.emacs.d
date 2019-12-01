@@ -4,6 +4,7 @@
 (package-initialize)
 
 (require 'config-ace-jump)
+(require 'config-company)
 (require 'config-ivy)
 (require 'config-linum)
 (require 'config-look)
