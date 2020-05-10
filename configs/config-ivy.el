@@ -1,7 +1,11 @@
 (eval-when-compile
   (require 'use-package))
 
+(use-package counsel
+  :ensure t)
+
 (use-package ivy
+  :ensure t
   :init
   (ivy-mode 1)
   (setq ivy-use-virtual-buffers t)

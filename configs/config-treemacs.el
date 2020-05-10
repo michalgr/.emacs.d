@@ -8,6 +8,7 @@
         ("C-c t a"   . treemacs-add-and-display-current-project)))
 
 (use-package treemacs-projectile
+  :ensure t
   :after treemacs projectile
   :ensure t)
 
