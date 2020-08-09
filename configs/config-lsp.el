@@ -4,8 +4,9 @@
 (use-package lsp-mode
   :ensure t
   :hook ((c-mode . lsp)
-	 (c++-mode . lsp)
-	 (python-mode . lsp))
+         (c++-mode . lsp)
+         (go-mode . lsp)                                                                                     (haskell-mode . lsp)
+         (python-mode . lsp))
   :commands lsp)
 
 (use-package lsp-ui
