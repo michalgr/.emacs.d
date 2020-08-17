@@ -18,3 +18,4 @@
 (require 'config-treemacs)
 (require 'config-which-key)
 (require 'config-whitespace)
+(require 'config-yasnippet)
