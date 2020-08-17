@@ -2,6 +2,7 @@
 
 (require 'config-melpa)
 (package-initialize)
+(require 'config-use-package)
 
 (require 'config-ace-jump)
 (require 'config-company)
