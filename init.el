@@ -12,6 +12,7 @@
 (require 'config-look)
 (require 'config-lsp)
 (require 'config-multiple-cursors)
+(require 'config-navigate)
 (require 'config-projectile)
 (require 'config-tabs)
 (require 'config-treemacs)
